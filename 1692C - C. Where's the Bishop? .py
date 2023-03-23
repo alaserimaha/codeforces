@@ -1,5 +1,4 @@
 '''
-
 1692C - C. Where's the Bishop?
 
 '''

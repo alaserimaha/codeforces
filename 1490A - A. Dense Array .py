@@ -1,5 +1,4 @@
 '''
-
 1490A - A. Dense Array
 
 '''

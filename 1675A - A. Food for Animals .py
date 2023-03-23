@@ -1,9 +1,7 @@
 '''
-
 1675A - A. Food for Animals
 
 '''
-
 for i in range(int(input())):
     a,b,c,x,y=map(int , input().split())
     x=x-a

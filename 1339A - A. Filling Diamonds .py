@@ -1,5 +1,4 @@
 '''
-
 1339A - A. Filling Diamonds
 
 '''

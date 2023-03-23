@@ -1,5 +1,4 @@
 '''
-
 433B - B. Kuriyama Mirai's Stones
 
 '''

@@ -1,9 +1,7 @@
 '''
-
 1611A - A. Make Even
 
 '''
-
 for i in range(int(input())):
     a=input()
     if(int(a)%2==0):
@@ -17,4 +15,3 @@ for i in range(int(input())):
                 re=2
                 break
         print(re)
-   

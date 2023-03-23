@@ -1,5 +1,4 @@
 '''
-
 265A - A. Colorful Stones (Simplified Edition)
 
 '''

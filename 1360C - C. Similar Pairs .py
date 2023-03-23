@@ -1,5 +1,4 @@
 '''
-
 1360C - C. Similar Pairs
 
 '''

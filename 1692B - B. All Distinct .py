@@ -1,5 +1,4 @@
 '''
-
 1692B - B. All Distinct
 
 '''

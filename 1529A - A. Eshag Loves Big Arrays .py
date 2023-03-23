@@ -1,9 +1,7 @@
 '''
-
 1529A - A. Eshag Loves Big Arrays
 
 '''
-
 for i in range(int(input())):
     a=int(input())
     arr=[int(i) for i in input().split()]

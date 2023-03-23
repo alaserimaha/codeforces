@@ -1,5 +1,4 @@
 '''
-
 1506A - A. Strange Table
 
 '''

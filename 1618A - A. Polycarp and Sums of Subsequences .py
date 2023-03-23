@@ -1,5 +1,4 @@
 '''
-
 1618A - A. Polycarp and Sums of Subsequences
 
 '''
