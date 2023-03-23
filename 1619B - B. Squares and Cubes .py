@@ -3,6 +3,7 @@
 1619B - B. Squares and Cubes
 
 '''
+
 import bisect
 arr=[]
 for i in range(1,31622+1):

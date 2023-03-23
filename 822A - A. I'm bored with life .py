@@ -2,6 +2,7 @@
 
 822A - A. I'm bored with life
 
+
 '''
 import math
 a,b=map(int, input().split())

@@ -3,6 +3,7 @@
 1294C - C. Product of Three Numbers
 
 '''
+
 def findfactors(n):
     arr=[]
     for i in range(2,n):

@@ -3,7 +3,6 @@
 1567A - A. Domino Disaster
 
 '''
-
 for i in range(int(input())):
     a=int(input())
     s=list(input())

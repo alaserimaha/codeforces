@@ -3,6 +3,7 @@
 1622A - A. Construct a Rectangle
 
 '''
+
 for i in range(int(input())):
     arr=[int(i) for i in input().split()]
     m=min(arr)

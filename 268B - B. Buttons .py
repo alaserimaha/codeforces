@@ -3,6 +3,7 @@
 268B - B. Buttons
 
 '''
+
 a=int(input())
 count=0
 j=1

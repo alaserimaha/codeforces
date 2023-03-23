@@ -3,6 +3,7 @@
 711A - A. Bus to Udayland
 
 '''
+
 arr=[]
 flag=True
 for i in range(int(input())):

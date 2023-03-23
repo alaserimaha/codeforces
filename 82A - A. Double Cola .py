@@ -3,6 +3,7 @@
 82A - A. Double Cola
 
 '''
+
 arr=["Sheldon", "Leonard", "Penny", "Rajesh", "Howard"]
 n=int(input())
 r=1
